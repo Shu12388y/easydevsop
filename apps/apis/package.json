@@ -1,0 +1,11 @@
+{
+  "name": "apis",
+  "description": "backend apis service",
+  "private": true,
+  "scripts": {
+    "dev": "task dev"
+  },
+  "author": {
+    "name": "shu12388y"
+  }
+}
